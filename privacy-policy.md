@@ -1,3 +1,5 @@
+# ID Gate Privacy Policy
+
 **Effective Date:** [05/25/2025]
 
 ID Gate (referred to as "the Bot," "we," "our," or "us") is developed by axew-xyz. We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you interact with the Bot. By using the Bot, you agree to the terms of this policy.
